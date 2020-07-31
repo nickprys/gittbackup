@@ -18,3 +18,5 @@ feature +
 feature2
 
 feature plus master
+
+conflict
